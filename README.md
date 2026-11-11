@@ -2,10 +2,10 @@
 <!--          BANNER SECTION       -->
 <!-- ============================= -->
 
-![Banner](INSERT_BANNER_IMAGE_URL_HERE)
+![Banner](https://www.globice.org/wp-content/uploads/2022/08/R6__2343-1-min-scaled.jpg)
 
-<!-- Astuce : génère un banner gratuit sur capsule-render.vercel.app
-     (paramètres : type=rect, color gradient, text=ton nom) -->
+<!-- Astuce bannière animée gratuite : https://capsule-render.vercel.app
+     Exemple avec vagues : type=waving&color=0:8B5CF6,100:06B6D4&text=Matthieu&height=180 -->
 
 ---
 
@@ -13,25 +13,33 @@
 <!--          INTRODUCTION         -->
 <!-- ============================= -->
 
-# Salut, moi c'est Matthieu 👋
+# Hi, I'm Matthieu Debaisieux 👋  
+# Salut, moi c'est Matthieu Debaisieux 👋
 
-Étudiant en BTS SIO option SLAM à l'école Iris Nice, je suis passionné par le développement web et les nouvelles technologies. Je code des projets concrets, du backend à l'interface, et j'apprends tous les jours.
+**🇬🇧 A student that loves learning every day!**  
+**🇫🇷 Un étudiant passionné qui apprend tous les jours !**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Développeur+en+formation;BTS+SIO+SLAM;Passionné+par+le+dev+web&font=Fira+Code&center=true)](https://readme-typing-svg.danleri.dev)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Développeur+en+formation;BTS+SIO+SLAM;Passionate+about+web+development&font=Fira+Code&center=true)](https://readme-typing-svg.danleri.dev)
 
 ---
 
 <!-- ============================= -->
-<!--             ABOUT ME          -->
+<!--          ABOUT ME             -->
 <!-- ============================= -->
 
-## À propos de moi  
+## 🇬🇧 About me / 🇫🇷 À propos de moi
 
-- Étudiant à Iris Nice, BTS SIO option SLAM
-- J'apprends le développement, la cybersécurité et les nouvelles technologies
-- Passionné de jeux vidéo, d'e-sport et de sports collectifs
+**🇬🇧 English**
 
-📫 Retrouvez aussi mes projets sur mon profil : [Mon GitHub](https://github.com/matthieu-debaisieux)
+- Student at Iris Nice, BTS SIO (SLAM option)
+- Learning web development, cyber security and new technologies
+- Passionate about video games, e-sport and team sports
+
+**🇫🇷 Français**
+
+- Étudiant à Iris Nice, en BTS SIO (service informatique aux organisations) option SLAM (Solution Logiciel et Application Métier)
+- J'apprends le développement web (front et back) et la cybersécurité
+- Passionné de jeux vidéo, d'e-sport, de sports collectifs et du droit pour les nouvelles technologies.
 
 ---
 
@@ -39,71 +47,56 @@
 <!--         TECH & TOOLS          -->
 <!-- ============================= -->
 
-## Tech & Tools  
+## 🇬🇧 Tech & Tools / 🇫🇷 Technologies & Outils
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
+     <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+     <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
+     <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
+     <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
+     <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
+     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
+     <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+     <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+     <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
+     <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white" />
+     <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
+     <img src="https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff" />
+     <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff" />
+     <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?logo=daisyui&logoColor=fff" />
+     <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" />
+     <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white" />
+     <img src="https://img.shields.io/badge/Ecosia-008009?logo=ecosia&logoColor=fff" />
+     <img src="https://img.shields.io/badge/Firefox-FF7139?logo=firefoxbrowser&logoColor=white" />
+     <img src="https://img.shields.io/badge/Helium%20Browser-3450D1?logo=heliumbrowser" />
+     <img src="https://img.shields.io/badge/Brave-FB542B?logo=Brave&logoColor=white" />
 </p>
 
 ---
-
-<!-- ============================= -->
-<!--           MY PROJECTS         -->
-<!-- ============================= -->
-
-## Mes projets  
-
-<p align="center">
-  <img src="INSERT_PROJECT1_GIF_URL" width="150" alt="Démo du projet"/>
-</p>
-
----
-
-### [Blind Test Multijoueur](LIEN_DU_REPO)  
-_Application web de blind test musical jouable en temps réel entre amis._  
-
-Fonctionnalités :  
-- Salles de jeu en temps réel avec code d'accès  
-- Recherche de musiques via l'API Deezer  
-- Scores en direct et podium final  
-
-🛠️ Stack : Next.js, TypeScript, Socket.io, CodeIgniter 4, PostgreSQL  
-
-🔗 [Voir le projet](LIEN_DEMO_OU_REPO)
-
----
-
 <!-- ============================= -->
 <!--          CONNECT WITH ME      -->
 <!-- ============================= -->
 
-## Me contacter
+## 🇬🇧 Contact / 🇫🇷 Me contacter
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthieu-debaisieux-3a5041364)
+<p align="center">
+     <a href="https://www.linkedin.com/in/matthieu-debaisieux-3a5041364">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
+     </a>
+</p>
 
 ---
+<!-- ========================================== -->
+<!--      GITHUB STATS  && VISITOR COUNTER      -->
+<!-- ========================================== -->
 
-<!-- ============================= -->
-<!--           GITHUB STATS        -->
-<!-- ============================= -->
-
-## GitHub Stats  
+## 🇬🇧 GitHub Stats / 🇫🇷 Mes stats GitHub
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=matthieu-debaisieux&hide_rank=true&custom_title=Mes%20Stats%20Github&show_icons=true&include_all_commits=true&theme=tokyonight" />
+  <img src="https://github-stats-extended.vercel.app/api?username=matthieu-debaisieux&hide_rank=true&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=tokyonight" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthieu-debaisieux&layout=compact&theme=tokyonight&hide=html,css" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=matthieu-debaisieux&theme=tokyonight&hide_border=true" />
+  <img src="https://komarev.com/ghpvc/?username=matthieu-debaisieux&label=PROFILE+VIEWS&color=8B5CF6&style=for-the-badge" alt="Visitor count" />
 </p>
