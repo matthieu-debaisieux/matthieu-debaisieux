@@ -2,11 +2,7 @@
 <!--          BANNER SECTION       -->
 <!-- ============================= -->
 
-![Banner](https://www.globice.org/wp-content/uploads/2020/08/DSC04312-Vio-@Violaine-Dulau-scaled.jpg)
 ![Banner](https://www.globice.org/wp-content/uploads/2023/01/R6__2292-min-scaled.jpg)
-
-<!-- Crédit photo : Globice / Violaine Dulau (baleine à bosse, La Réunion) -->
-<!-- Alternative avec la côte : https://www.globice.org/wp-content/uploads/2023/01/R6__2292-min-scaled.jpg -->
 
 ---
 
@@ -130,3 +126,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=matthieu-debaisieux&label=PROFILE+VIEWS&color=8B5CF6&style=for-the-badge" alt="Visitor count" />
 </p>
+
+---
+
+## 🇬🇧 Thanks you for reading ! / 🇫🇷 Merci d'avoir lue ! 
+![Banner](https://www.globice.org/wp-content/uploads/2020/08/DSC04312-Vio-@Violaine-Dulau-scaled.jpg)
+<!-- Crédit photo : Globice / Violaine Dulau (baleine à bosse, La Réunion) -->
