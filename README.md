@@ -44,6 +44,19 @@
 ---
 
 <!-- ============================= -->
+<!--        CURRENTLY LEARNING      -->
+<!-- ============================= -->
+
+## 🇬🇧 Currently learning / 🇫🇷 En cours d'apprentissage
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodeIgniter-%23EF4323.svg?logo=codeigniter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.io-%2301071A.svg?logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Better%20Auth-1F2937" />
+</p>
+
+<!-- ============================= -->
 <!--         TECH & TOOLS          -->
 <!-- ============================= -->
 
