@@ -1,6 +1,7 @@
 <!-- ============================= -->
 <!--          BANNER SECTION       -->
 <!-- ============================= -->
+
 <p>
   <img src="./assets/Banner.jpg"/>
 </p>
@@ -11,8 +12,7 @@
 <!--          INTRODUCTION         -->
 <!-- ============================= -->
 
-# Hi, I'm Matthieu Debaisieux 👋  
-# Salut, moi c'est Matthieu Debaisieux 👋
+# 🇬🇧 Hi, I'm Matthieu Debaisieux | 🇫🇷 Salut, moi c'est Matthieu Debaisieux 👋
 
 **🇬🇧 A student that loves learning every day!**  
 **🇫🇷 Un étudiant passionné qui apprend tous les jours !**
@@ -49,7 +49,7 @@
 
 **🇬🇧 Programming languages / 🇫🇷 Langages de programmation**
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
@@ -57,7 +57,7 @@
 
 **🇬🇧 Frontend / 🇫🇷 Front-end**
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" />
@@ -67,14 +67,14 @@
 
 **🇬🇧 Backend & Database / 🇫🇷 Back-end & Base de données**
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
 </p>
 
 **🇬🇧 Development environment / 🇫🇷 Environnement de développement**
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
@@ -83,14 +83,14 @@
 
 **🇬🇧 Design & collaboration / 🇫🇷 Design & collaboration**
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff" />
 </p>
 
 **🇬🇧 OS & browsers / 🇫🇷 OS & navigateurs**
 
-<p align="center">
+<p align="left">
   <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white" />
   <img src="https://img.shields.io/badge/Ecosia-008009?logo=ecosia&logoColor=fff" />
   <img src="https://img.shields.io/badge/Firefox-FF7139?logo=firefoxbrowser&logoColor=white" />
