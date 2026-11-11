@@ -1,8 +1,9 @@
 <!-- ============================= -->
 <!--          BANNER SECTION       -->
 <!-- ============================= -->
-
-![Banner](https://www.globice.org/wp-content/uploads/2023/01/R6__2292-min-scaled.jpg)
+<p>
+  <img src="./assets/R6_2292-min-scaled (1).jpg"/>
+</p>
 
 ---
 
@@ -130,5 +131,9 @@
 ---
 
 ## 🇬🇧 Thanks you for reading ! / 🇫🇷 Merci d'avoir lue ! 
-![Banner](https://www.globice.org/wp-content/uploads/2020/08/DSC04312-Vio-@Violaine-Dulau-scaled.jpg)
+
+<p>
+  <img src="./assets/DSC04312-Vio-Violaine-Dulau-scaled.jpg"/>
+</p>
+
 <!-- Crédit photo : Globice / Violaine Dulau (baleine à bosse, La Réunion) -->
