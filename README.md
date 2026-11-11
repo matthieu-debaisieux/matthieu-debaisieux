@@ -3,6 +3,7 @@
 <!-- ============================= -->
 
 ![Banner](https://www.globice.org/wp-content/uploads/2020/08/DSC04312-Vio-@Violaine-Dulau-scaled.jpg)
+![Banner](https://www.globice.org/wp-content/uploads/2023/01/R6__2292-min-scaled.jpg)
 
 <!-- Crédit photo : Globice / Violaine Dulau (baleine à bosse, La Réunion) -->
 <!-- Alternative avec la côte : https://www.globice.org/wp-content/uploads/2023/01/R6__2292-min-scaled.jpg -->
