@@ -5,7 +5,7 @@
 <p>
   <img src="./assets/Banner.jpg"/>
 </p>
-<!-- Crédit photo : Globice / Violaine Dulau (baleine à bosse, La Réunion) -->
+<!-- Crédit photo : Globice -->
 ---
 
 <!-- ============================= -->
@@ -17,7 +17,9 @@
 **🇬🇧 A student that loves learning every day!**  
 **🇫🇷 Un étudiant passionné qui apprend tous les jours !**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Développeur+en+formation;BTS+SIO+SLAM;Passionate+about+web+development&font=Fira+Code&center=true)](https://readme-typing-svg.danleri.dev)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Redaction+35&pause=1000&color=70A5FD&center=true&vCenter=true&random=true&width=435&lines=D%C3%A9veloppeur+en+formation;Student+developer;BTS+SIO+SLAM;Passionate+about+web+development;Looking+for+opportunity;En+recherche+de+Stage%2FAlternance)](https://git.io/typing-svg)
+
+<!-- Font : Redaction 35 -->
 
 ---
 
@@ -36,7 +38,7 @@
 **🇫🇷 Français**
 
 - Étudiant à Iris Nice, en BTS SIO (service informatique aux organisations) option SLAM (Solution Logiciel et Application Métier)
-- J'apprends le développement web (front et back) et la cybersécurité
+- J'apprends le développement web (front-end et back-end) et la cybersécurité
 - Passionné de jeux vidéo, d'e-sport, de sports collectifs et du droit pour les nouvelles technologies
 
 ---
@@ -121,11 +123,8 @@
 ## 🇬🇧 GitHub Stats / 🇫🇷 Mes stats GitHub
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=matthieu-debaisieux&hide_rank=true&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmatthieu-debaisieux&label=PROFILE+VIEWS&labelColor=%238B5CF6&countColor=%2334D399" alt="Visitor count" />
+  <img src="https://github-stats-extended.vercel.app/api?username=matthieu-debaisieux&hide_rank=true&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=tokyonight" width="49%" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmatthieu-debaisieux&label=PROFILE+VIEWS&labelColor=%238B5CF6&countColor=%2334D399&style=flat-square" width="49%" />
 </p>
 
 ---
