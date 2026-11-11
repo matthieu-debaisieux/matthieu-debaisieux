@@ -123,8 +123,10 @@
 ## 🇬🇧 GitHub Stats / 🇫🇷 Mes stats GitHub
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=matthieu-debaisieux&hide_rank=true&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=tokyonight" width="49%" />
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmatthieu-debaisieux&label=PROFILE+VIEWS&labelColor=%238B5CF6&countColor=%2334D399&style=flat-square" width="49%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=matthieu-debaisieux&hide_rank=true&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=matthieu-debaisieux&label=PROFILE+VIEWS&color=8B5CF6&style=for-the-badge" alt="Visitor count" />
 </p>
 
 ---
