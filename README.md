@@ -2,7 +2,7 @@
 <!--          BANNER SECTION       -->
 <!-- ============================= -->
 <p>
-  <img src="./assets/R6_2292-min-scaled (1).jpg"/>
+  <img src="./assets/Banner.jpg"/>
 </p>
 
 ---
@@ -133,7 +133,7 @@
 ## 🇬🇧 Thanks you for reading ! / 🇫🇷 Merci d'avoir lue ! 
 
 <p>
-  <img src="./assets/DSC04312-Vio-Violaine-Dulau-scaled.jpg"/>
+  <img src="./assets/End_Banner.jpg"/>
 </p>
 
 <!-- Crédit photo : Globice / Violaine Dulau (baleine à bosse, La Réunion) -->
