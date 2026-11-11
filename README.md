@@ -5,7 +5,7 @@
 <p>
   <img src="./assets/Banner.jpg"/>
 </p>
-
+<!-- Crédit photo : Globice / Violaine Dulau (baleine à bosse, La Réunion) -->
 ---
 
 <!-- ============================= -->
@@ -125,12 +125,12 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=matthieu-debaisieux&label=PROFILE+VIEWS&color=8B5CF6&style=for-the-badge" alt="Visitor count" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmatthieu-debaisieux&label=PROFILE+VIEWS&labelColor=%238B5CF6&countColor=%2334D399" alt="Visitor count" />
 </p>
 
 ---
 
-## 🇬🇧 Thanks you for reading ! / 🇫🇷 Merci d'avoir lue ! 
+## 🇬🇧 Thanks you for reading ! / 🇫🇷 Merci d'avoir lu ! 
 
 <p>
   <img src="./assets/End_Banner.jpg"/>
