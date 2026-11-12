@@ -1,153 +1,106 @@
-<!-- ============================= -->
-<!--          BANNER SECTION       -->
-<!-- ============================= -->
-
 <p>
-  <img src="./assets/Banner.jpg"/>
+  <img src="./assets/Banner.jpg" alt="Bannière : photo de Globice" />
 </p>
-<!-- Crédit photo : Globice -->
+<sub>Crédit photo : Globice</sub>
+
 ---
 
-<!-- ============================= -->
-<!--          INTRODUCTION         -->
-<!-- ============================= -->
+# Salut, moi c'est Matthieu 👋
 
-# 🇬🇧 Hi, I'm Matthieu Debaisieux | 🇫🇷 Salut, moi c'est Matthieu Debaisieux 👋
+**Étudiant en développement web, passionné, qui apprend tous les jours.**
 
-**🇬🇧 A student that loves learning every day!**  
-**🇫🇷 Un étudiant passionné qui apprend tous les jours !**
+> 🔎 **À la recherche d'un stage / d'une alternance** en développement web (Nice et alentours, ou en télétravail).
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Redaction+35&pause=1000&color=70A5FD&center=true&vCenter=true&random=true&width=435&lines=D%C3%A9veloppeur+en+formation;Student+developer;BTS+SIO+SLAM;Passionate+about+web+development;Looking+for+opportunity;En+recherche+de+Stage%2FAlternance)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Redaction+35&pause=1000&color=70A5FD&width=435&lines=D%C3%A9veloppeur+en+formation;BTS+SIO+SLAM;Passionn%C3%A9+par+le+d%C3%A9veloppement+web)](https://git.io/typing-svg)
 
 <!-- Font : Redaction 35 -->
 
+<details>
+<summary>🇬🇧 English version</summary>
+
+<br />
+
+I'm a web development student who loves learning every day, currently looking for an internship or work-study opportunity (Nice area, France, or remote).
+
+I study at Iris Nice (BTS SIO, Software Solutions and Business Applications option), where I learn front-end and back-end web development as well as cybersecurity.
+
+</details>
+
 ---
 
-<!-- ============================= -->
-<!--          ABOUT ME             -->
-<!-- ============================= -->
+## À propos de moi
 
-## 🇬🇧 About me / 🇫🇷 À propos de moi
-
-**🇬🇧 English**
-
-- Student at Iris Nice, BTS SIO (Services for Information Technology to Organizations), Software and Business Applications option
-- I'm learning web development (front-end and back-end) and cyber security
-- Passionate about video games, e-sport, team sports, and law related to new technologies
-
-**🇫🇷 Français**
-
-- Étudiant à Iris Nice, en BTS SIO (service informatique aux organisations) option SLAM (Solution Logiciel et Application Métier)
+- Étudiant à **Iris Nice**, en **BTS SIO** (Services informatiques aux organisations), option **SLAM** (Solutions logicielles et applications métiers)
 - J'apprends le développement web (front-end et back-end) et la cybersécurité
-- Passionné de jeux vidéo, d'e-sport, de sports collectifs et du droit pour les nouvelles technologies
+- Je m'intéresse au **droit des nouvelles technologies** (cybersécurité, protection des données)
+- En dehors du code, j'aime les jeux vidéo : rétrogaming, Nintendo, jeux indépendants
+- Je suis aussi l'e-sport (League of Legends, CS2) et je pratique des sports et jeux collectifs (JDR, tennis et badminton en double, etc.)
 
 ---
 
-<!-- ============================= -->
-<!--        CURRENTLY LEARNING      -->
-<!-- ============================= -->
-
-## 🇬🇧 Currently learning / 🇫🇷 En cours d'apprentissage
+## En cours d'apprentissage
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/CodeIgniter-%23EF4323.svg?logo=codeigniter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket.io-%2301071A.svg?logo=socketdotio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Better%20Auth-1F2937" />
-</p>
-
-<!-- ============================= -->
-<!--         TECH & TOOLS          -->
-<!-- ============================= -->
-
-## 🇬🇧 Tech & Tools / 🇫🇷 Technologies & Outils
-
-**🇬🇧 Programming languages / 🇫🇷 Langages de programmation**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
-</p>
-
-**🇬🇧 Frontend / 🇫🇷 Front-end**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff" />
-  <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?logo=daisyui&logoColor=fff" />
-</p>
-
-**🇬🇧 Backend & Database / 🇫🇷 Back-end & Base de données**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
-</p>
-
-**🇬🇧 Development environment / 🇫🇷 Environnement de développement**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
-  <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white" />
-</p>
-
-**🇬🇧 Design & collaboration / 🇫🇷 Design & collaboration**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff" />
-</p>
-
-**🇬🇧 OS & browsers / 🇫🇷 OS & navigateurs**
-
-<p align="left">
-  <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ecosia-008009?logo=ecosia&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Firefox-FF7139?logo=firefoxbrowser&logoColor=white" />
-  <img src="https://img.shields.io/badge/Helium%20Browser-3450D1?logo=heliumbrowser" />
-  <img src="https://img.shields.io/badge/Brave-FB542B?logo=Brave&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/CodeIgniter-%23EF4323.svg?logo=codeigniter&logoColor=white" alt="CodeIgniter" />
+  <img src="https://img.shields.io/badge/Socket.io-%2301071A.svg?logo=socketdotio&logoColor=white" alt="Socket.io" />
+  <img src="https://img.shields.io/badge/Better%20Auth-1F2937" alt="Better Auth" />
 </p>
 
 ---
 
-<!-- ============================= -->
-<!--          CONNECT WITH ME      -->
-<!-- ============================= -->
+## Ma stack
 
-## 🇬🇧 Contact / 🇫🇷 Me contacter
+**Langages**  
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php" alt="HTML, CSS, JavaScript, TypeScript, PHP" />
+
+**Front-end** (+ DaisyUI)  
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" alt="React, Next.js, Tailwind CSS, Bootstrap" />
+
+**Back-end & bases de données**  
+<img src="https://skillicons.dev/icons?i=nodejs,postgres,mysql" alt="Node.js, PostgreSQL, MySQL" />
+
+**Outils**  
+<img src="https://skillicons.dev/icons?i=git,docker,linux,vscode,figma,notion" alt="Git, Docker, Linux, VS Code, Figma, Notion" />
+
+<!--
+============================================================
+ SECTION PROJETS (à ajouter plus tard)
+============================================================
+
+## 🚀 Projets
+
+### Nom du projet
+Une ligne de description. `React` `Node.js` `PostgreSQL`  
+[Voir le code](https://github.com/matthieu-debaisieux/nom-du-repo)
+
+-->
+
+---
+
+## Me contacter
+
+<a href="https://www.linkedin.com/in/matthieu-debaisieux-3a5041364">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<!-- Ajouter ici portfolio / mail si tu en as -->
+
+<!--
+============================================================
+ STATS GITHUB (à réactiver quand l'activité publique sera plus fournie)
+============================================================
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/matthieu-debaisieux-3a5041364">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
-  </a>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=matthieu-debaisieux&layout=compact&theme=tokyonight" alt="Langages les plus utilisés" />
 </p>
+
+-->
 
 ---
 
-<!-- ========================================== -->
-<!--      GITHUB STATS  && VISITOR COUNTER      -->
-<!-- ========================================== -->
-
-## 🇬🇧 GitHub Stats / 🇫🇷 Mes stats GitHub
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=matthieu-debaisieux&hide_rank=true&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=matthieu-debaisieux&label=PROFILE+VIEWS&color=8B5CF6&style=for-the-badge" alt="Visitor count" />
-</p>
-
----
-
-## 🇬🇧 Thanks you for reading ! / 🇫🇷 Merci d'avoir lu ! 
+**Merci d'avoir lu ! 🐋**
 
 <p>
-  <img src="./assets/End_Banner.jpg"/>
+  <img src="./assets/End_Banner.jpg" alt="Baleine à bosse, La Réunion" />
 </p>
-
-<!-- Crédit photo : Globice / Violaine Dulau (baleine à bosse, La Réunion) -->
+<sub>Crédit photo : Globice / Violaine Dulau (baleine à bosse, La Réunion)</sub>
